@@ -10,7 +10,7 @@ Art and design are essential aspects of our culture and how we interact with the
 ---
 
 Today we are immersed in multiple realities, and the millennials have been born into the pleasures of Minecraft, the frustrations of Apple’s Siri, and the social story-worlds of massive multiplayer online role-playing games (M.M.O.R.P.G.s). Over and above, the popular culture, the walls between high-art and digital and immersive art have progressively come down, and with each progressive discovery the world dividing art and technology shrinks.
-![art](/images/art1.jpg)
+![art](jerome001/images/art1.jpg)
 
 ---
 
